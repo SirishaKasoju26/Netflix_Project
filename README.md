@@ -1,7 +1,6 @@
 # Netflix_Project
 
-## Description
- an immersive web application crafted with React.js, designed to bring the Netflix experience to your fingertips. This project is a testament to the power of modern web development, featuring a responsive and dynamic user interface that mirrors the sleek design and functionality of the renowned streaming platform.
+An immersive web application crafted with React.js, designed to bring the Netflix experience to your fingertips. This project is a testament to the power of modern web development, featuring a responsive and dynamic user interface that mirrors the sleek design and functionality of the renowned streaming platform.
 
 ## Demo
 ![Netflix](https://github.com/SirishaKasoju26/Netflix_Project/assets/132665292/b192de85-f89a-4c6a-aaa5-34e100fd3089)
